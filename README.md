@@ -51,7 +51,7 @@ Reusable WebDriver setup
 TestNG test execution
 
 # Deliverable:
-sauce_demo_automation/
+sauce_demo_automation
 
 # How to Run Automation Tests
 # Prerequisites
